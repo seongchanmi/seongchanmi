@@ -11,7 +11,7 @@ JavaとSpring Bootを用いたWebアプリケーション開発を経験しま�
 
 <div align="center">
   
-### 🛠 技術スタック
+### 🛠 学習中の技術
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
