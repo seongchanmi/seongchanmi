@@ -28,12 +28,11 @@ JavaとSpring Bootを用いたWebアプリケーション開発を経験しま�
   
 ### 📚 学び & 記録
 
-
-<a href="https://velog.io/@seongchnm" target="_blank">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
-</a>
 <a href="https://qiita.com/seongchanmi" target="_blank">
   <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" />
+</a>
+<a href="https://velog.io/@seongchnm" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
 </a>
 
 </div>
