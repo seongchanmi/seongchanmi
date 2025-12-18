@@ -11,7 +11,7 @@ JavaとSpring Bootを用いたWebアプリケーション開発を経験しま�
 
 <div align="center">
   
-### 🛠 Tech Stack
+### 🛠 技術スタック
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -26,10 +26,14 @@ JavaとSpring Bootを用いたWebアプリケーション開発を経験しま�
 
 <div align="center">
   
-### 📚 Learning & 기록
+### 📚 学び & 記録
 
-학습한 내용과 에러 해결 과정을 정리하며 공부하고 있습니다.
- 
-(Qiita / 블로그 링크 추가 예정)
+
+<a href="https://velog.io/@seongchanmi" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
+</a>
+<a href="https://qiita.com/seongchanmi" target="_blank">
+  <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" />
+</a>
 
 </div>
