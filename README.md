@@ -8,8 +8,9 @@ JavaとSpring Bootを用いたWebアプリケーション開発を経験しま�
 </div>
 
 ---
-<div align="center">
+
 ### 🛠 Tech Stack
+<div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -20,8 +21,8 @@ JavaとSpring Bootを用いたWebアプリケーション開発を経験しま�
 
 </div>
 
-<div align="center">
 ### 📚 Learning & 기록
+<div align="center">
 
 - 학습한 내용과 에러 해결 과정을 정리하며 공부하고 있습니다。
 - (Qiita / 블로그 링크 추가 예정)
